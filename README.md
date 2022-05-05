@@ -47,6 +47,16 @@ Clean Flutter
 flutter clean
 ```
 
+Update & Install all the required flutter libraries
+
+```
+flutter pub upgrade
+```
+
+```
+flutter pub get
+```
+
 ## Running the application
 
 Config android sdk
